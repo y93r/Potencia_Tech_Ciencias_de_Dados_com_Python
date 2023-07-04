@@ -10,3 +10,6 @@ Repositório criado para o bootcamp da [DIO Potência Tech powered by iFood | Ci
 | Saque | O sistema deve permitir realizar 3 saques diários com limite máximo de R$ 500,00 por saque. |
 | Extrato | No fim da listagem deve ser exibido o saldo atual da conta. Se o extrato estiver em branco, exibir a mensagem: "Não foram realizadas movimentações". |
 -----
+**Desafio 2**
+- Implementando POO e melhorando o sistema bancário do Desafio 1.
+------
